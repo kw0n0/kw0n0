@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **kw0n0/kw0n0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
