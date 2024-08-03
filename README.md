@@ -1,7 +1,7 @@
 
-안녕하세요🙂‍↕️
-가치있는 것을 전달할 때 행복을 느끼는 개발자 kwon입니다
-기술을 활용하여 전달 가능한 범위를 넓히고자 매일 고민하고 노력합니다 🏃🏻‍♂️
+안녕하세요 😄  
+가치있는 것을 전달할 때 행복을 느끼는 프론트엔드 개발자 kw0n0입니다 👫🏻    
+기술을 활용하여 전달 가능한 범위를 넓히고자 노력합니다 🏃🏻‍♂️   
 
 <!--
 **kw0n0/kw0n0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
