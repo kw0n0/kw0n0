@@ -1,3 +1,4 @@
+It's Easy... If it's hard, thank you 🤹🏻‍♂️
 
 안녕하세요 😄  
 가치있는 것을 전달할 때 행복을 느끼는 프론트엔드 개발자 kw0n0입니다 👫🏻    
